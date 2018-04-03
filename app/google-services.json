@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "10995908196",
+    "firebase_url": "https://ebec-aveiro-2017-ffc30.firebaseio.com",
+    "project_id": "ebec-aveiro-2017-ffc30",
+    "storage_bucket": "ebec-aveiro-2017-ffc30.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:10995908196:android:d29043f8340d0aa0",
+        "android_client_info": {
+          "package_name": "com.example.jmfs1.ebec"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "10995908196-tmq6mu57h9r83qs52gk4t0k3soerq3m4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAJ5EkQhHShzBCbo7eNgE6kpcbtBqHFhi8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

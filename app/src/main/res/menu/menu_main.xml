@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context=".MainActivity">
+    <item
+        android:id="@+id/duvidas_prova"
+        android:orderInCategory="100"
+        android:title="Dúvidas da prova"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/outros"
+        android:orderInCategory="100"
+        android:title="Outras Duvidas"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/log_out"
+        android:orderInCategory="100"
+        android:title="Log Out"
+        app:showAsAction="never" />
+
+</menu>

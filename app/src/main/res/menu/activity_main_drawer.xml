@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    >
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_clock"
+            android:icon="@drawable/clock"
+            android:title="Horário"
+            />
+        <item
+            android:id="@+id/nav_loja"
+            android:icon="@drawable/store"
+            android:title="Loja" >
+
+        </item>
+        <item
+            android:id="@+id/nav_pontuacoes"
+            android:icon="@drawable/podium"
+            android:title="Pontuações"
+
+            />
+        <item
+            android:id="@+id/nav_fotos"
+            android:icon="@drawable/parceiros"
+            android:title="Parceiros" />
+
+        <item
+            android:id="@+id/nav_alertas"
+            android:icon="@drawable/alarm"
+            android:title="Alertas" />
+    </group>
+
+
+</menu>
