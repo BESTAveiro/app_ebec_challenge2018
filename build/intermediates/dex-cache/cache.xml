@@ -1,0 +1,302 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\matac\.android\build-cache\92297a1db68802512dfd2d92ece9b619012b4c37\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1ac56e5801e986583cbe27f2cce57f626cc7ff93">
+        <dex dex="D:\App ebec challenge\app_ebec_challenge2018\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_02d40c5be5bcbdaeafd5e797630e54152f1cc594\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\matac\.android\build-cache\b3a8543e34334bb08437413bed79e8688f95860f\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ce9112e08a027c8620ae693983e38cdbb9f6371b">
+        <dex dex="D:\App ebec challenge\app_ebec_challenge2018\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_ed35f0001870ff4d6be59f341262dc1c6e7ea812\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\matac\.gradle\caches\modules-2\files-2.1\com.google.guava\guava\18.0\cce0823396aa693798f8882e64213b1772032b09\guava-18.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="cce0823396aa693798f8882e64213b1772032b09">
+        <dex dex="D:\App ebec challenge\app_ebec_challenge2018\app\build\intermediates\transforms\dex\debug\folders\1000\10\guava-18.0_c188f86b695d44f4621f4e630950b47749b32eb1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\App ebec challenge\app_ebec_challenge2018\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a0c18c6d95f2f15b846da53c22b8cb2e67bbc39a">
+        <dex dex="D:\App ebec challenge\app_ebec_challenge2018\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_bfff2de185280777c067411ba1f7b57b6c9c7044\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\matac\.gradle\caches\modules-2\files-2.1\com.loopj.android\android-async-http\1.4.9\386a4339ffe52d5d63e80f9bed8d2b1d1a418249\android-async-http-1.4.9.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="386a4339ffe52d5d63e80f9bed8d2b1d1a418249">
+        <dex dex="D:\App ebec challenge\app_ebec_challenge2018\app\build\intermediates\transforms\dex\debug\folders\1000\10\android-async-http-1.4.9_5fbcdd89f5bb8a2df6f4712fed6509b48462af4f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\matac\.android\build-cache\3ad872d53b0e7ee831a327e1baa08b1181efde59\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="cd7951e04cfb9a8bf008d544a478d9a8d8192d38">
+        <dex dex="D:\App ebec challenge\app_ebec_challenge2018\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_71d4fa25e15819f8aba005d8ebf52b4209615da1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\matac\.gradle\caches\modules-2\files-2.1\com.fasterxml.jackson.core\jackson-core\2.7.4\b8f38a249116b66d804a5ca2b14a3459b7913a94\jackson-core-2.7.4.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b8f38a249116b66d804a5ca2b14a3459b7913a94">
+        <dex dex="D:\App ebec challenge\app_ebec_challenge2018\app\build\intermediates\transforms\dex\debug\folders\1000\10\jackson-core-2.7.4_2bf5f957e72c1dad46dac326f0a04c1a0c84305c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\matac\.gradle\caches\modules-2\files-2.1\com.github.bumptech.glide\glide\3.7.0\9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4\glide-3.7.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4">
+        <dex dex="D:\App ebec challenge\app_ebec_challenge2018\app\build\intermediates\transforms\dex\debug\folders\1000\10\glide-3.7.0_33d93b59aa278fef56c9ff2fef0968ddbf7e4fd7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\matac\.android\build-cache\99c5cfd485b2fc2c62d2a4a47708fbef0c73dce3\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a61e7010aa7be5da53cd1bc5279630510c9a4912">
+        <dex dex="D:\App ebec challenge\app_ebec_challenge2018\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_19a7c111ba143c217f58e574d1609550ce82b112\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\matac\.android\build-cache\635192d2ceb8a19464ccb78152ecc8748307ea05\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="81d41e53c215976ce172b9f61ef1e8fc2d67cf79">
+        <dex dex="D:\App ebec challenge\app_ebec_challenge2018\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_4d73c3fa0eeaf0fcaa6250693b935832e7940ec5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\matac\.android\build-cache\5fff1e96d08f09abf98c5ecf22b4ab39ed37d436\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="02741d05d4b697fba5e279e9881aaa1da0ca7c7f">
+        <dex dex="D:\App ebec challenge\app_ebec_challenge2018\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_b63d312471f08cb89cc75d6f33d82bf2d9966ebf\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\matac\.android\build-cache\e07ef995639c790fd4bc41ee10bbf42f8c5a1184\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="D:\App ebec challenge\app_ebec_challenge2018\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_1be5f750bca1229568014e933cbe42638ad375f9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\matac\.android\build-cache\b58620b85beb92cd6c21d30084e23a716e3d7be9\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0d5cbbbfe040201c7569478b70a13b58fd11aab4">
+        <dex dex="D:\App ebec challenge\app_ebec_challenge2018\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_e56ffb69e1953f4ff70930f6982716f5cd7d54a7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\matac\.android\build-cache\51b26dec4ad4daba3a0a134f1c61e1ddd604c32b\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0e301f24b283f14b564f660c9abe863af6be5896">
+        <dex dex="D:\App ebec challenge\app_ebec_challenge2018\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_f74d5622f9e30e12d525d79c4d8efd6c9fa19c8f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\App ebec challenge\app_ebec_challenge2018\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="D:\App ebec challenge\app_ebec_challenge2018\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_90c58c3d6d83446c68a41f2a906069a6fb167780\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\matac\.android\build-cache\b70da87f96cf1ca1064600a58eb58c15e7bf3da8\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="75575883f0348fc5d2be85f23bd10b050095cf17">
+        <dex dex="D:\App ebec challenge\app_ebec_challenge2018\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_46512ceac04a8276890647fc6c52f97807d138f5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\matac\.android\build-cache\cd879a3a33bc537ff0e79827a6fc13137843b9f2\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0fb891e8f0cfba0513043a7bb357513d229ca2cd">
+        <dex dex="D:\App ebec challenge\app_ebec_challenge2018\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_016f1d2b2087a3ac9550023ee3677d905ac4aadb\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\matac\.android\build-cache\ce864e06b1fa8bcde2f8b55bd58fea927cadf477\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7bde4c34162092e0a77e7f12dc85ed77c484cf5c">
+        <dex dex="D:\App ebec challenge\app_ebec_challenge2018\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_29399536900d8ac64e76bdab0ffeafd6a3fe8cf0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\matac\.android\build-cache\7bb76f1a1fd48d8c3a08ea6fb4c5e75bc2f5df87\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ac045b53684345f4ec8468477e8fc5034d0d2bfd">
+        <dex dex="D:\App ebec challenge\app_ebec_challenge2018\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_6352b01fbb0844d2fb8eebcbbad61dc3f3951f03\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\matac\.gradle\caches\modules-2\files-2.1\com.dropbox.core\dropbox-core-sdk\2.1.1\786a91e07e28575967a2a1656dd4eaaff10587fb\dropbox-core-sdk-2.1.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="786a91e07e28575967a2a1656dd4eaaff10587fb">
+        <dex dex="D:\App ebec challenge\app_ebec_challenge2018\app\build\intermediates\transforms\dex\debug\folders\1000\10\dropbox-core-sdk-2.1.1_3563157b0d705ab8c4ba36893f4d820a4a2e5c36\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\matac\.android\build-cache\49748d9dd71cca2c1dcd79957f816067a3f600fc\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ecb496cc08dd52551fc5ec6db3bc0632e95a89bb">
+        <dex dex="D:\App ebec challenge\app_ebec_challenge2018\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_f206a2c4ca48c151d4e5bafad781796353b56d8d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\matac\.android\build-cache\3cf0d9971a61fe2410c8609d2e954bb9fcb9d0c6\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c9649557905bf7a80fca9e0d54cbcb7662627860">
+        <dex dex="D:\App ebec challenge\app_ebec_challenge2018\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_c8049ff56c579ea678d6c65fb3b47b0804767ede\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\App ebec challenge\app_ebec_challenge2018\app\libs\Pushraven_1.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a4f8b15648f4c38420357391eefa5f8ad505ced3">
+        <dex dex="D:\App ebec challenge\app_ebec_challenge2018\app\build\intermediates\transforms\dex\debug\folders\1000\2\Pushraven_1.0.0_1f5a6b4882c83f9c30a1d6f90bbb54cc56416d5f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\matac\.android\build-cache\714dfd20f929862ab82fd103ad4f33d12fc3a9c0\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="94fca868854457ede6df15c902938468c71d579e">
+        <dex dex="D:\App ebec challenge\app_ebec_challenge2018\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_dfe92d7057f8295f3b2c9345accafe7d913f9054\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\matac\.android\build-cache\af9569e69e4da976d1b3988bdd40a6ac90490936\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0d191c1a09e4892d059e5ce749e4ad4e08129e35">
+        <dex dex="D:\App ebec challenge\app_ebec_challenge2018\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_075179832f27d8a66bda2c2eb44b8a2c0157f099\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\matac\.android\build-cache\74665a97b7b1cedb6caba3c8c2a03d59de31dcb4\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="15b049fedbd8e3926bf99d9e45dfc9b2a1043bb9">
+        <dex dex="D:\App ebec challenge\app_ebec_challenge2018\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_75b7cd62dd1116a5d3df623e4bd4c19343c1cc5f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\matac\.android\build-cache\61e1b73da76666756cbcafb2faf939b1445fb977\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e2719c102dca3a7a5b02ce07f769362da6ddb4ab">
+        <dex dex="D:\App ebec challenge\app_ebec_challenge2018\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_23724b24f05558a0c667bec724e1ce1c035bc7ee\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\matac\.android\build-cache\8dfe6a3420bab4fe4c6db8d6be2d3284c4f85278\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bd75f9f0296fe220da6d0ad961831b04541c4452">
+        <dex dex="D:\App ebec challenge\app_ebec_challenge2018\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_77cfa280602218829be62339c133a76e93b8d786\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\matac\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-annotations\25.1.1\support-annotations-25.1.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b59b6ee8d6ecc03e672d253800430343493a6ed8">
+        <dex dex="D:\App ebec challenge\app_ebec_challenge2018\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-25.1.1_9547c5b4081418a0353ff09a59f90ea6d265f090\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\matac\.android\build-cache\69466a8818ea1437e1a449ce847949666714ec24\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3e04ac8ca644ea7baddf6fdcf72e15c79e9df94a">
+        <dex dex="D:\App ebec challenge\app_ebec_challenge2018\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_656ef206f6f7881d1d61fb4e18e64bb2bb490bca\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\matac\.gradle\caches\modules-2\files-2.1\cz.msebera.android\httpclient\4.3.6\526a9f794eab830eae4f23a62c572878b3f491ab\httpclient-4.3.6.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="526a9f794eab830eae4f23a62c572878b3f491ab">
+        <dex dex="D:\App ebec challenge\app_ebec_challenge2018\app\build\intermediates\transforms\dex\debug\folders\1000\10\httpclient-4.3.6_8db25cc78014524cbe1d1a7fdab69b3f9c7f96af\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\matac\.android\build-cache\1d9ea255aecdb5f475d701ffe79c68a8fbd336e1\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c03bf57f358aa10d253f21989e93bcf6014b3b17">
+        <dex dex="D:\App ebec challenge\app_ebec_challenge2018\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_cf4ed5bd5ebb320ee06431cefba14e4287f721f8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\matac\.android\build-cache\a33ed8f77a027d32cef3375e9266506fdb3e9673\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3d6951cb416ebf8c66a32b9480808ca247b68344">
+        <dex dex="D:\App ebec challenge\app_ebec_challenge2018\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_1eab58bc343e3176b71cc331de091af38af7e808\classes.dex" />
+    </item>
+
+</items>

@@ -15,7 +15,7 @@
             android:layout_width="match_parent"
             android:layout_height="?attr/actionBarSize"
             app:popupTheme="@style/AppTheme.PopupOverlay"
-            app:title="EBEC Challenge Aveiro 2018"
+            app:title="EBEC Aveiro"
             android:background="#294F66"/>
 
     </android.support.design.widget.AppBarLayout>

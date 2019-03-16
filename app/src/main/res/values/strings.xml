@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">EBEC Challenge Aveiro 2018</string>
+    <string name="app_name">EBEC Aveiro</string>
 
     <string name="navigation_drawer_open">Open navigation drawer</string>
     <string name="navigation_drawer_close">Close navigation drawer</string>
@@ -7,7 +7,7 @@
     <string name="action_settings">Settings</string>
 
     <string name="hello_blank_fragment">Hello blank fragment</string>
-    <string name="title_activity_login">EBEC Challenge Aveiro 2018</string>
+    <string name="title_activity_login">EBEC Aveiro</string>
 
     <!-- Strings related to login -->
     <string name="prompt_email">E-mail</string>

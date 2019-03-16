@@ -97,26 +97,27 @@ public class MainActivity extends AppCompatActivity
 
             return true;
 
-        } else if (id == R.id.duvidas_prova) {
-            /*DIEGO*/
-            Context context = getApplicationContext();
-            CharSequence text = "Alerta Enviado, espere um momento!";
-            int duration = Toast.LENGTH_SHORT;
-
-            Toast toast = Toast.makeText(context, text, duration);
-            //toast.setGravity(Gravity.TOP|Gravity.LEFT, 0, 0);
-            toast.show();
-            /*FIM DIEGO*/
-            // Get team name
-            SharedPreferences sp = getSharedPreferences("LOGIN_PREFS", MODE_PRIVATE);
-            String teamName = sp.getString("TEAMNAME", "Some Error Ocurred");
-
-            Log.d("Duvidas Prova", "Mandei");
-
-            MessagingUtils.sendMessage(teamName + " tem duvidas na prova!", "topic-group");
-            //MessagingUtils.sendMessageNotNotification(teamName, "td1");
-
         }
+//        else if (id == R.id.duvidas_prova) {
+//            /*DIEGO*/
+//            Context context = getApplicationContext();
+//            CharSequence text = "Alerta Enviado, espere um momento!";
+//            int duration = Toast.LENGTH_SHORT;
+//
+//            Toast toast = Toast.makeText(context, text, duration);
+//            //toast.setGravity(Gravity.TOP|Gravity.LEFT, 0, 0);
+//            toast.show();
+//            /*FIM DIEGO*/
+//            // Get team name
+//            SharedPreferences sp = getSharedPreferences("LOGIN_PREFS", MODE_PRIVATE);
+//            String teamName = sp.getString("TEAM", "Some Error Ocurred");
+//
+//            Log.d("Duvidas Prova", "Mandei");
+//
+//            MessagingUtils.sendMessage(teamName + " tem duvidas na prova!", "topic-group");
+//            //MessagingUtils.sendMessageNotNotification(teamName, "td1");
+//
+//        }
         else if(id==R.id.outros)
         {
             Context context = getApplicationContext();
@@ -158,12 +159,12 @@ public class MainActivity extends AppCompatActivity
             case R.id.nav_pontuacoes:
                 fm.beginTransaction().replace(R.id.frame, new ScoresModalityFragment()).addToBackStack(null).commit();
                 break;
-            case R.id.nav_fotos:
+/*            case R.id.nav_fotos:
                 fm.beginTransaction().replace(R.id.frame, new Fotografias()).addToBackStack(null).commit();
-                break;
-            case R.id.nav_alertas:
+                break;*/
+/*            case R.id.nav_alertas:
                 fm.beginTransaction().replace(R.id.frame, new AlertFragment()).addToBackStack(null).commit();
-                break;
+                break;*/
         }
 
         DrawerLayout drawer = (DrawerLayout) findViewById(R.id.drawerLayout);
